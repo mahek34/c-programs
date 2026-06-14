@@ -1,5 +1,5 @@
 #include<stdio.h>
-main (){
+int main (){
     int marks;
     printf("enter marks :");
     scanf("%d",&marks);

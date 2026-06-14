@@ -1,8 +1,9 @@
+#define __USE_MINGW_ANSI_STDIO 1
 #include<stdio.h>
-main(){
-    long long moblie = 9876543210;
+int main(){
+    long long mobile = 9876543210LL;
     char grade='B';
-    printf("\n%lld",moblie);
+    printf("\n%lld",mobile);
     printf("\n%c",grade);
     
 

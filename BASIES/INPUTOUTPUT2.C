@@ -1,5 +1,5 @@
 #include<stdio.h>
-main(){
+int main(){
     float price;
     printf("enter price :");
     scanf("%f",&price);
