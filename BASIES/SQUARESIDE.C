@@ -3,10 +3,9 @@
 int main(){
     long long mobile = 9876543210LL;
     char grade='B';
+
     printf("\n%lld",mobile);
     printf("\n%c",grade);
-    
 
     return 0;
-
 }
